@@ -191,7 +191,7 @@ body {
 /* guided-tour1 */
 .guided-tour .guided-tour-about {
   width: 50%;
-  background-image: url("/images/desktop/index/Hero-Section2.png");
+  background-image: url("./images/desktop/index/Hero-Section2.png");
 }
 
 .guided-tour .guided-tour-about .guided-tour-content {
